@@ -5,7 +5,7 @@ This repository contains the implementation and experiments for CASCADE (Chaotic
 
 The method leverages entropy-tuned chaotic reservoir computing (DynML) to model short-term ECG dynamics and identify anomalies as failures of predictability. The method reframes arrhythmia detection as a dynamical regime transition problem using Dynamical Systems Machine Learning (DynML) and compares it with standard machine learning models including MLP, LSTM, and TCN.
 
-The system is evaluated on the MIT-BIH Arrhythmia Database with preprocessing, PCA-based dimensionality reduction, and online prediction-based anomaly detection.
+The system is evaluated on the MIT-BIH Arrhythmia Database with preprocessing, PCA-based dimensionality reduction, and online prediction-based anomaly forecasting.
 
 This repository accompanies the manuscript:
 **"From Chaos to Care: Personalized AI for Early Cardiac Arrhythmia Warning"**
