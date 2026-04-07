@@ -1,7 +1,7 @@
 # CASCADE: Chaotic Attractor Sensitivity for Cardiac Anomaly Detection
 ## Overview
 
-This repository contains the implementation and experiments for CASCADE (Chaotic Attractor Sensitivity for Cardiac Anomaly Detection), an online, patient-specific framework for ECG arrhythmia forcasting.
+This repository contains the implementation and experiments for CASCADE (Chaotic Attractor Sensitivity for Cardiac Anomaly Detection), an online, patient-specific framework for ECG arrhythmia forecasting.
 
 The method leverages entropy-tuned chaotic reservoir computing (DynML) to model short-term ECG dynamics and identify anomalies as failures of predictability. The method reframes arrhythmia detection as a dynamical regime transition problem using Dynamical Systems Machine Learning (DynML) and compares it with standard machine learning models including MLP, LSTM, and TCN.
 
