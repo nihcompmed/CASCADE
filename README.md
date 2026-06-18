@@ -153,12 +153,3 @@ Please obtain the datasets from their original sources and organize them accordi
 
 ---
 
-# Citation
-
-If you use this repository, please cite:
-
-**Halder S., Kim C.M., Periwal V.**
-
-*From Chaos to Care: Personalized AI for Early Cardiac Arrhythmia Warning.*
-
-(Manuscript under review.)
