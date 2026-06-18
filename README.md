@@ -83,9 +83,32 @@ Used for computational performance and timing analyses.
 
 ---
 
-# Figure Generation Notebooks
+## Figure Generation Notebooks
 
 Each notebook reproduces one or more figures from the manuscript.
+
+| Notebook | Description | Output Figures |
+|----------|-------------|----------------|
+| `Fig_3_beat_length_selection.ipynb` | Beat-length optimization for heartbeat segmentation | Figure 3 |
+| `Fig_4_MITBIH_data_patients_selection.ipynb` | MIT-BIH patient selection workflow | Figure 4 |
+| `Fig_5_PCA_data_total_variance_selected_patients.ipynb` | PCA explained variance across selected patients | Figure 5 |
+| `Fig_6_PCA_data_Patient106.ipynb` | PCA visualization for Patient 106 | Figure 6 |
+| `Fig_7_error_histogram_validation_set.ipynb` | Validation reconstruction-error histograms | Figure 7 |
+| `Fig_9-11,13,14,17_SuppFig_1-3_MultiMethod_comparision.ipynb` | Multi-method performance comparison | Figures 9–11, 13, 14, 17; Supplementary Figures 1–3 |
+| `Fi_12_SuppFig_10,12,13_HDBSCAN_mitbih_clusterMetrices.ipynb` | HDBSCAN clustering and cluster quality metrics | Figure 12; Supplementary Figures 10, 12, 13 |
+| `Fig_15,16,18,22_SuppFig_15-18_statistical_rigor_entropy_early_detection_results.ipynb` | Statistical validation, entropy analysis, and early arrhythmia detection | Figures 15, 16, 18, 22; Supplementary Figures 15–18 |
+| `Fig_19_SuppFig_5,6_multimethod_comparision_figure.ipynb` | Multi-method comparison and robustness analyses | Figure 19; Supplementary Figures 5, 6 |
+| `Fig_20,21_SuppFig_14_topo_figure_multipara-newtopocalculation.ipynb` | Topological analysis and multi-parameter evaluation | Figures 20, 21; Supplementary Figure 14 |
+| `SuppFig_4_Icentia11K_beatlength_selection.ipynb` | Beat-length selection for the Icentia11K dataset | Supplementary Figure 4 |
+| `SuppFig_7-9_error_histogram_validation_set.ipynb` | Validation reconstruction-error histograms | Supplementary Figures 7–9 |
+| `SuppFig_11_Arrhythmia type composition per patient alongside peak F1.ipynb` | Arrhythmia type composition and peak F1 score | Supplementary Figure 11 |
+| `SuppFig_19_bootstap_ci_fast.ipynb` | Bootstrap confidence interval analysis | Supplementary Figure 19 |
+| `SuppFig_20_DynML_timimg_figure.ipynb` | Computational efficiency and runtime benchmarking | Supplementary Figure 20 |
+
+> **Note:** Figures **1**, **2**, and **8** are conceptual schematics created using presentation software and therefore do not have corresponding notebooks. All remaining main-text and supplementary figures can be reproduced using the notebooks listed above.
+
+---
+
 
 | Notebook | Figures |
 |----------|---------|
