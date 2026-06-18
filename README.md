@@ -109,26 +109,6 @@ Each notebook reproduces one or more figures from the manuscript.
 
 ---
 
-
-| Notebook | Figures |
-|----------|---------|
-| `Fig_3_beat_length_selection.ipynb` | Figure 3 |
-| `Fig_4_MITBIH_data_patients_selection.ipynb` | Figure 4 |
-| `Fig_5_PCA_data_total_variance_selected_patients.ipynb` | Figure 5 |
-| `Fig_6_PCA_data_Patient106.ipynb` | Figure 6 |
-| `Fig_7_error_histogram_validation_set.ipynb` | Figure 7 |
-| `Fig_9-11,13,14,17_SuppFig_1-3_MultiMethod_comparision.ipynb` | Figures 9–11, 13, 14, 17 and Supplementary Figures 1–3 |
-| `Fig_15,16,18,22_SuppFig_15-18_statistical_rigor_entropy_early_detection_results.ipynb` | Figures 15, 16, 18, 22 and Supplementary Figures 15–18 |
-| `Fig_20,21_SuppFig_14_topo_figure_multipara-newtopocalculation.ipynb` | Figures 20, 21 and Supplementary Figure 14 |
-| `SuppFig_4_Icentia11K_beatlength_selection.ipynb` | Supplementary Figure 4 |
-| `SuppFig_7-9_error_histogram_validation_set.ipynb` | Supplementary Figures 7–9 |
-| `SuppFig_11_Arrhythmia type composition per patient alongside peak F1.ipynb` | Supplementary Figure 11 |
-| `SuppFig_19_bootstap_ci_fast.ipynb` | Supplementary Figure 19 |
-| `SuppFig_20_DynML_timimg_figure.ipynb` | Supplementary Figure 20 |
-| `Fi_12_SuppFig_10,12,13_HDBSCAN_mitbih_clusterMetrices.ipynb` | Figure 12 and Supplementary Figures 10, 12, 13 |
-
----
-
 ## Utility Notebook
 
 - `Incentia_Check_for_enough_data.ipynb`
