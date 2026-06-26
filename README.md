@@ -95,7 +95,7 @@ Each notebook reproduces one or more figures from the manuscript.
 | `Fig_6_PCA_data_Patient106.ipynb` | PCA visualization for Patient 106 | Figure 6 |
 | `Fig_7_error_histogram_validation_set.ipynb` | Validation reconstruction-error histograms | Figure 7 |
 | `Fig_9-11,13,14,17_SuppFig_1-3_MultiMethod_comparision.ipynb` | Multi-method performance comparison | Figures 9–11, 13, 14, 17; Supplementary Figures 1–3 |
-| `Fi_12_SuppFig_10,12,13_HDBSCAN_mitbih_clusterMetrices.ipynb` | HDBSCAN clustering and cluster quality metrics | Figure 12; Supplementary Figures 10, 12, 13 |
+| `Fig_12_SuppFig_10,12,13_HDBSCAN_mitbih_clusterMetrices.ipynb` | HDBSCAN clustering and cluster quality metrics | Figure 12; Supplementary Figures 10, 12, 13 |
 | `Fig_15,16,18,22_SuppFig_15-18_statistical_rigor_entropy_early_detection_results.ipynb` | Statistical validation, entropy analysis, and early arrhythmia detection | Figures 15, 16, 18, 22; Supplementary Figures 15–18 |
 | `Fig_19_SuppFig_5,6_multimethod_comparision_figure.ipynb` | Multi-method comparison and robustness analyses | Figure 19; Supplementary Figures 5, 6 |
 | `Fig_20,21_SuppFig_14_topo_figure_multipara-newtopocalculation.ipynb` | Topological analysis and multi-parameter evaluation | Figures 20, 21; Supplementary Figure 14 |
